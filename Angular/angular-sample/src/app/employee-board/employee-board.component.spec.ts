@@ -22,4 +22,10 @@ describe('EmployeeBoardComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  it('html element', () => {
+    const data= fixture.nativeElement
+    expect(component).toBeTruthy();
+  });
+
 });
