@@ -22,4 +22,20 @@ describe('UseraccountComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  // it('testing html element', () => {
+  //   const data= fixture.nativeElement 
+  //   expect(querySelector(".text-center").textContent).toContain("Welcome to User Account")
+  // });
+
+
 });
+
+
+// function querySelector(arg0: string) {
+//   throw new Error('Function not implemented.');
+// }
+// function querySelector(arg0: string) {
+//   throw new Error('Function not implemented.');
+// }
+
